@@ -11,3 +11,7 @@
 ## initial
 ![blogspage1](https://github.com/shazna-sadique/shop_blog_wordpress_authenticaiton/assets/55852938/6242cde0-9545-40df-872a-064820fc9346)
 
+
+## vercel build error : 
+
+![image](https://github.com/shazna-sadique/shop_blog_wordpress_authenticaiton/assets/55852938/250343b8-4d00-426a-8a71-a2438b62d982)
