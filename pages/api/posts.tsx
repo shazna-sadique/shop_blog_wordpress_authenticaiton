@@ -1,4 +1,4 @@
-import makeAuthenticatedRequest from '../../pages/api/login'
+import makeAuthenticatedRequest from './login'
 
 export async function fetchBlogPosts() {
     try {
