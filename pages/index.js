@@ -1,6 +1,5 @@
 import Head from 'next/head'
 import Layout from '../components/layout'
-import utilStyles from '../styles/utils.module.css'
 import Link from 'next/link'
 import Header from '../components/Header';
 
@@ -12,7 +11,7 @@ export default function Home() {
         <title>PLANET MEDIA</title>
         <meta name="description" content="Your page description" />
       </Head>
-      <section className={utilStyles.headingMd}>
+      <section>
         <div>
           <h1>Shop</h1>
         </div>
