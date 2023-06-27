@@ -1,8 +1,8 @@
 import axios from 'axios';
 import { useEffect, useState } from 'react';
 import { useRouter } from 'next/router';
-import Header from '../components/Header';
-
+import Header from '../../components/Header';
+import styles from './blogs.module.css';
 const baseURL = 'https://wp.planetmedia.dev/wp-json';
 
 export default function BlogsPage() {
