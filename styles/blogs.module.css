@@ -1,0 +1,19 @@
+
+.container{
+    height: 96px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #842A3A;
+    border-radius: 0 0 16px 16px;
+}
+
+.text{
+    font-family: serif ;
+    font-style:normal;
+    font-size: 32px;
+    color:white;
+    margin-left: 64px;
+    line-height: 64px;
+    
+}

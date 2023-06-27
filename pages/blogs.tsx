@@ -1,8 +1,8 @@
 import axios from 'axios';
 import { useEffect, useState } from 'react';
 import { useRouter } from 'next/router';
-import Header from '../../components/Header';
-import styles from './blogs.module.css';
+import Header from '../components/Header';
+import styles from '../styles/blogs.module.css';
 const baseURL = 'https://wp.planetmedia.dev/wp-json';
 
 export default function BlogsPage() {
@@ -29,6 +29,9 @@ export default function BlogsPage() {
   return (
     <div>
     <Header/>
+    <div className={styles.container}>
+      <div className={styles.text}>My daily skin care routine</div>
+    </div>
     <h1>Blogs Page</h1>
     <button onClick={handleGoBack}>Go Back</button>
     {blogs.map((blog) => (
