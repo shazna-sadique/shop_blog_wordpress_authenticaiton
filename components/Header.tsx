@@ -3,6 +3,8 @@ import { useRouter } from 'next/router';
 import Cookies from 'js-cookie';
 import Link from 'next/link'
 import styles from './header.module.css';
+import Image from 'next/image';
+
 
 export default function Header() {
   const isLoggedIn = Cookies.get('token');
@@ -16,7 +18,6 @@ export default function Header() {
   return (
     <header className={styles.header}>
       <nav>
-        <div><img src='logo.png'></img></div>
         <ul>
           <li>
             <Link href="/">Shop</Link>
@@ -26,7 +27,7 @@ export default function Header() {
           </li>
           {isLoggedIn ? (
             <li>
-              <button onClick={handleLogout}>Logout</button>
+              <button onClick={handleLogout}>Log out</button>
             </li>
           ) : (
             <li>
