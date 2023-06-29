@@ -10,6 +10,10 @@
 # BLOGS PAGE :
 ## initial
 ![blogspage1](https://github.com/shazna-sadique/shop_blog_wordpress_authenticaiton/assets/55852938/6242cde0-9545-40df-872a-064820fc9346)
+## blogspage
+![clogsui2](https://github.com/shazna-
+![Screenshot 2023-06-29 093045](https://github.com/shazna-sadique/shop_blog_wordpress_authenticaiton/assets/55852938/dbcf8c58-051f-4562-b69e-111971d1d13f)
+sadique/shop_blog_wordpress_authenticaiton/assets/55852938/dcfbb679-a920-4991-849c-eee50176e2a5)
 
 
 ## vercel build error : 
