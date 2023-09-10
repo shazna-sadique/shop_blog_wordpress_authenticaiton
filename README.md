@@ -14,8 +14,3 @@
 ![clogsui2](https://github.com/shazna-sadique/shop_blog_wordpress_authenticaiton/assets/55852938/dcfbb679-a920-4991-849c-eee50176e2a5)
 ![Screenshot 2023-06-29 093045](https://github.com/shazna-sadique/shop_blog_wordpress_authenticaiton/assets/55852938/dbcf8c58-051f-4562-b69e-111971d1d13f)
 
-
-
-## vercel build error : 
-
-![image](https://github.com/shazna-sadique/shop_blog_wordpress_authenticaiton/assets/55852938/250343b8-4d00-426a-8a71-a2438b62d982)
